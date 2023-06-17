@@ -6,10 +6,10 @@ export default function Header() {
     <nav>
         <h1>TechYStar</h1>
         <main>
-            <Link to= {"/"}>Home</Link>
+            <a href= {"/#home"}>Home</a>
             <Link to= {"/contact"}>Contact</Link>
-            <Link to= {"/#about"}>About</Link>
-            <Link to= {"/#brands"}>Brands</Link>
+            <a href= {"/#about"}>About</a>
+            <a href= {"/#brands"}>Brands</a>
             <Link to= {"/services"}>Services</Link>
         </main>
     </nav>
