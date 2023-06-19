@@ -10,7 +10,7 @@ import './style/Header.scss';
 import './style/Home.scss';
 import './style/footer.scss';
 import './style/contact.scss';
-
+import './style/mediaquery.scss';
 
 export default function App() {
   return (

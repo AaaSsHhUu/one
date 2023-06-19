@@ -7,17 +7,17 @@ export default function Contact() {
             <h1>Contact Us</h1>
             <form>
                 <div>
-                    <label>Name :</label>
+                    <label>Name</label>
                     <input type="text" required placeholder='Enter Your Name' />
                 </div>
 
                 <div>
-                    <label>Email :</label>
+                    <label>Email</label>
                     <input type='email' required placeholder='Enter Your Email' />
                 </div>
 
                 <div>
-                    <label>Message :</label>
+                    <label>Message</label>
                     <input type="text" required placeholder='Write Your Query...' />
                 </div>
 
